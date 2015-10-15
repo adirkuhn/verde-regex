@@ -1,0 +1,19 @@
+Prefeitura Municipal de São Paulo
+Prefeitura Municipal de Sao Paulo
+Prefeitura de São Paulo
+Prefeitura de Sao Paulo
+Prefeitura Mun. de São Paulo
+Pref. Mun. de São Paulo
+Pref. Mun. de S. P.
+Pref. de São Paulo
+Pref. de S. Paulo
+Pref. M. de São Paulo
+P. M. de Sao Paulo
+Prefeitura São Paulo
+Pref. Mun. São Paulo
+Pref. Mun. S. Paulo
+Prefeitura de S.P.
+Prefeitura de SP
+
+
+^(Prefeitura|Pref\.|P\.)(\s(Municipal|Mun\.|M\.))?(\s?de)?\s((S\.|S[ãa]o) Paulo|S\.\s?P\.|SP)$
