@@ -1,0 +1,13 @@
+____________Sim_
+mercado
+minimercado
+supermercado
+hipermercado
+
+____________Não_
+mercador
+mini
+
+
+
+^(mini|super|hiper)?mercado$
